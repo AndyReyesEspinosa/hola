@@ -1,0 +1,781 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bode",
+				"border"
+			],
+			[
+				"font",
+				"font-language-override"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"Fech",
+				"FechaControl1"
+			],
+			[
+				"fecha",
+				"fechaVto"
+			],
+			[
+				"fech",
+				"fechaVto"
+			],
+			[
+				"get",
+				"getMonth"
+			],
+			[
+				"Fec",
+				"FechaControl"
+			],
+			[
+				"Text",
+				"Text"
+			],
+			[
+				"da",
+				"Date"
+			],
+			[
+				"dA",
+				"date"
+			],
+			[
+				"Fecha",
+				"FechaControl"
+			],
+			[
+				"date",
+				"date"
+			],
+			[
+				"centro",
+				"centroBeneficio"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"bot",
+				"button\tTag"
+			],
+			[
+				"Te",
+				"Text"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"CEL",
+				"cellspacing\tAttr"
+			],
+			[
+				"tH",
+				"th\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"sele",
+				"spellcheck\tAttr"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"onke",
+				"onkeyup\tAttr"
+			],
+			[
+				"onk",
+				"onkeyup\tAttr"
+			],
+			[
+				"nu",
+				"null"
+			],
+			[
+				"un",
+				"undefined"
+			],
+			[
+				"tex",
+				"textContent"
+			],
+			[
+				"suma",
+				"sumar2"
+			],
+			[
+				"sp",
+				"spTotal2"
+			],
+			[
+				"Su",
+				"sumar2"
+			],
+			[
+				"sumar",
+				"sumar1"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"Im",
+				"ImporteDescuento1"
+			],
+			[
+				"Impor",
+				"ImporteFactura1"
+			],
+			[
+				"impor",
+				"ImporteDescuento1"
+			],
+			[
+				"Import",
+				"ImporteTotal1"
+			],
+			[
+				"impo",
+				"ImporteFactura1"
+			],
+			[
+				"iMPOR",
+				"ImporteDescuento1"
+			],
+			[
+				"iM",
+				"ImporteDescuento1"
+			],
+			[
+				"iMPORTE",
+				"ImporteTotal1"
+			],
+			[
+				"IMPOR",
+				"ImporteTotal1"
+			],
+			[
+				"iMPORT",
+				"ImporteTotal1"
+			],
+			[
+				"Importe",
+				"ImporteFactura1"
+			],
+			[
+				"ImporteT",
+				"ImporteTotal1"
+			],
+			[
+				"ImporteDE",
+				"ImporteDescuento1"
+			],
+			[
+				"ImporteTo",
+				"ImporteTotal1"
+			],
+			[
+				"ImporteFac",
+				"ImporteFactura1"
+			],
+			[
+				"total",
+				"ImporteTotal"
+			],
+			[
+				"Desc",
+				"ImporteDescuento1"
+			],
+			[
+				"ImporteF",
+				"ImporteFactura1"
+			],
+			[
+				"importe",
+				"ImporteFactura1"
+			],
+			[
+				"ImporteTota",
+				"ImporteTotal"
+			],
+			[
+				"act",
+				"action\tAttr"
+			],
+			[
+				"ImporteTotal",
+				"ImporteTotalPrueba"
+			],
+			[
+				"oncll",
+				"onscroll\tAttr"
+			],
+			[
+				"oncli",
+				"onclick\tAttr"
+			],
+			[
+				"ImporteD",
+				"ImporteDescuento1"
+			],
+			[
+				"ImporteDes",
+				"ImporteDescuento1"
+			],
+			[
+				"ImporteTot",
+				"ImporteTotal"
+			],
+			[
+				"Importe2",
+				"ImporteTota2"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"si",
+				"list-style-image"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"boos",
+				"Boostrap"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"border",
+				"border-left-color"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"verde",
+				"verde"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"in",
+				"initial"
+			],
+			[
+				"Imor",
+				"ImporteDescuento"
+			],
+			[
+				"table",
+				"table-header-group"
+			],
+			[
+				"top",
+				"table-row-group"
+			],
+			[
+				"b",
+				"inline-block"
+			],
+			[
+				"to",
+				"table-header-group"
+			],
+			[
+				"DI",
+				"DIV\tTag"
+			],
+			[
+				"punto",
+				"puntofinal"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"sold",
+				"Soldado"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"soldad",
+				"soldados"
+			],
+			[
+				"bord",
+				"border-top-color"
+			],
+			[
+				"it",
+				"italic"
+			],
+			[
+				"styl",
+				"font-style"
+			],
+			[
+				"luk",
+				"Luke"
+			],
+			[
+				"rebe",
+				"rebeldes"
+			],
+			[
+				"rebel",
+				"rebeldes"
+			],
+			[
+				"re",
+				"rebeldes"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/reyesa01/Desktop/AkzoReceipt/index.html",
+			"settings":
+			{
+				"buffer_size": 4776,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "para subir/PS4.html",
+			"settings":
+			{
+				"buffer_size": 2661,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "para subir/formatoPS4.CSS",
+			"settings":
+			{
+				"buffer_size": 455,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/reyesa01/Desktop/MI PRESENTACION/index.html",
+			"settings":
+			{
+				"buffer_size": 3618,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/reyesa01/Desktop/prueba_descuento.html",
+		"/C/Users/reyesa01/Desktop/MI PRESENTACION/stylesheet.css",
+		"/C/Users/reyesa01/Desktop/Corder-House/Clase 2/Desafio/miestilo.css",
+		"/C/Users/reyesa01/Desktop/Corder-House/Clase 2/Desafio/index2.html",
+		"/C/Users/reyesa01/Desktop/Corder-House/Clase 2/index_practica_con_css.html",
+		"/C/Users/reyesa01/Desktop/Corder-House/Clase 2/Desafio/estilo.css",
+		"/C/Users/reyesa01/Desktop/Corder-House/Clase 2/Desafio/index.html",
+		"/C/Users/reyesa01/Desktop/Corder-House/Clase 2/main.css",
+		"/C/Users/reyesa01/Desktop/Corder-House/Clase 2/formularios.html",
+		"/C/Users/reyesa01/Desktop/Corder-House/Clase 2/index.html",
+		"/C/Users/reyesa01/Desktop/Corder-House/Clase 2/Desafio/para subir/formato.css",
+		"/C/Users/reyesa01/Desktop/Corder-House/Clase 2/Desafio/para subir/Ejercicio Pagina 66.html",
+		"/C/Users/reyesa01/Desktop/Corder-House/Clase 2/Desafio/estiloverde.css",
+		"/C/Users/reyesa01/Desktop/Corder-House/Clase 2/Desafio/pagina58.html",
+		"/C/Users/reyesa01/Desktop/Corder-House/Clase 2/Desafio/estilos.css",
+		"/C/Users/reyesa01/Desktop/q.html",
+		"/C/Users/reyesa01/Desktop/Corder-House/imagenes y enlaces.html",
+		"/C/Users/reyesa01/Desktop/Corder-House/index.html",
+		"/C/Users/reyesa01/Desktop/Corder-House/solucionprofe.html",
+		"/C/Users/reyesa01/Desktop/Corder-House/tablas.html",
+		"/C/Users/reyesa01/Desktop/Corder-House/ejercicio_tablas.html",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/JQUERY/Ejercicio1.html",
+		"/C/Users/reyesa01/Desktop/ejemplo1.html",
+		"/C/Users/reyesa01/Desktop/AkzoReceipt/ejemplosuma.html",
+		"/C/Users/reyesa01/Desktop/AkzoReceipt/prueba2.html",
+		"/C/Users/reyesa01/Desktop/Practica JS.HTML",
+		"/C/Users/reyesa01/Desktop/js.js",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/ejerciciofotogrago.css",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/EjercicioFotografo.html",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 8/mate.html",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 8/saludos.html",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 8/saludar.html",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 8/fecha y hora.html",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 8/FUNCIONES.HTML",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 7/EjercicioMerito.html",
+		"/C/Users/reyesa01/Desktop/AkzoReceipt/login.html",
+		"/C/Users/reyesa01/Desktop/AkzoReceipt/login.css",
+		"/C/Users/reyesa01/Desktop/AkzoReceipt/main.js",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 6/edad.html",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 6/practicando.js",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 7/NUEVOS.HTML",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 7/juguemos.html",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 7/pruebas.html",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 6/prueba.html",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 6/pruebita.js",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 6/script.js",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/javascript.html",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 5/APracticar.html",
+		"/C/Users/reyesa01/Desktop/AkzoReceipt/index.html",
+		"/C/Users/reyesa01/Desktop/AkzoReceipt/Prueba.html",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 5/bootstrap.html",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 5/añidados.html",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 5/boostrapestilos.css",
+		"/C/Users/reyesa01/Desktop/bootstrap-3.3.7-dist.zip",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 4/cajas.html",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 4/probandocuadros.css",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 4/ejercicio2.css",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 4/Ejercicio1.html",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 1/index3 Recibos.html",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 4/index.html",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 4/prueba.html",
+		"/C/Users/reyesa01/Desktop/AkzoReceipt/miestilo.css",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 3/estilosclase3.css",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Formularios.html",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 2/ejercicio2.css",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 2/Ejercicio2.html",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 3/Usando FrameWorks.html",
+		"/C/Users/reyesa01/Desktop/Pononada.html",
+		"/C/Users/reyesa01/Desktop/facebook.html",
+		"/C/Users/reyesa01/Desktop/hola.js",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 2/Ejercicio1.html",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 2/misestilos.css",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 2/estilos.css",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 2/formatos.html",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 1/QuienesSomos.html",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 1/MiBlog.html",
+		"/C/Users/reyesa01/Desktop/Plataforma 5/Clase 1/index.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"=\"\">",
+			">\n",
+			";\t",
+			"Comunes",
+			"puntoocho"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/reyesa01/Desktop/AkzoReceipt/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								365,
+								365
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "para subir/PS4.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2661,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								335,
+								335
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "para subir/formatoPS4.CSS",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 455,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/reyesa01/Desktop/MI PRESENTACION/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3618,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proyecto1.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
